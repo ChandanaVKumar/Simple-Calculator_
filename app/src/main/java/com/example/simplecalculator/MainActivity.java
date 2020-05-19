@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+/* different onClick methods used for different bottons */
         add.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
