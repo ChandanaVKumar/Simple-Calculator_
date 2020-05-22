@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private Button pro;
     private Button div;
     private TextView res;
-    int result = 0;
+    int result = 0; /* can declare a variable for the whole prgram in public class*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
